@@ -1,0 +1,49 @@
+/*div.form-group {
+    display: inline;
+  }*/
+
+section {
+background-size: cover;
+background-position: center center;
+background-repeat: no-repeat;
+width: 100%;
+height: 800px;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+ label.radio-inline {
+  color: aliceblue;
+  padding: 5px;
+  margin-bottom: 8px;
+  display: inline-block;
+}
+
+.form-group {
+ color: aliceblue;
+ display: inline;
+ /*margin-top: 0;*/
+}
+
+#newProfile form > .form-group:first-child input {
+display: inline;
+width: 49%;
+height: 34px;
+}
+
+#results {
+  color: #fff;
+  margin: 10px 0;
+  padding: 10px 0;
+  text-align: center;
+}
+
+.success {
+  background-color: #5cb85c;
+}
+
+.failure {
+  background-color: #d9534f;
+}*/
